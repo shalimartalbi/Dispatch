@@ -1,7 +1,7 @@
 # Dispatch Workspace Prototype
 
 ## Overview
-This project is an interactive front-end prototype for **OneSignal**, simulating a unified workspace that integrates **email and calendar management** into a single interface.
+This project is an interactive front-end prototype for **Dispatch**, simulating a unified workspace that integrates **email and calendar management** into a single interface.
 
 The prototype demonstrates UI interactions and workflow simulation using **HTML, CSS, and JavaScript**.
 
